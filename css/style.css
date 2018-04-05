@@ -1,6 +1,30 @@
 body{
-color: #f5f6fa;
+	color: #fff;
+}
+
+.myImage{
+  background-image: url('../images/developer.jpg');
+  background-position:top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  min-height: 700px;
 }
 .makeheading{
   padding-top: 150px;
+}
+.makeBanner{
+	font-family: 'Press Start 2P', cursive;
+}
+.myGrid{
+	color: #000;
+}
+.makehr{
+
+}
+.row{
+	padding-top: 50px;
+}
+.col-md-4{
+	text-align: justify;
 }
